@@ -72,6 +72,7 @@
               - App.jsx
               - index.css
               - main.jsx
-- **Step 10:** Open the Terminal on "Food Delivery" folder
-- **Step 11:** Then write this command `cd frontend`
-- **Step 12:** Run this command `npm run dev`
+- **Step 10:** From the assests folder in the src folder copy the `header_img.png` and paste into the public folder of the frontend folder
+- **Step 11:** Open the Terminal on "Food Delivery" folder
+- **Step 12:** Then write this command `cd frontend`
+- **Step 13:** Run this command `npm run dev`
